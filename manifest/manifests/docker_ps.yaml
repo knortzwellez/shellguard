@@ -3,5 +3,7 @@ description: List Docker containers
 category: containers
 flags:
   - flag: "-a"
+  - flag: "--filter"
+  - flag: "-f"
 stdin: false
 stdout: true
